@@ -12,8 +12,8 @@ author: Wanglab
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "yongwang"
-  Research: "research"
+  Research: "index"
+  "Yong Wang": "yongwang"
   People: "people"
   Publications: "publications"
   Resources: "resources"
@@ -72,7 +72,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Yong Wang Lab | Academy of Mathematics and Systems Science | Chinese Academy of Sciences"
+url-pretty: "Yong Wang Lab | Academy of Mathematics and Systems Science   Chinese Academy of Sciences"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
